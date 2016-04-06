@@ -1,0 +1,8 @@
+- We used standard L2 misfit in all experiements. Eqs. 11-13 have been corrected to reflect this.
+
+- A different sign convention is now used for eq. 15
+
+- When all weights are 1, eq. 15 reduces to
+|| m_0 - m_true || - || m_N - m_true ||
+The related statement in the text has been corrected.
+
